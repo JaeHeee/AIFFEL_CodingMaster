@@ -26,4 +26,5 @@ Flip Coding Master 02
 <br>
 
 ## Submit
-[제출](https://docs.google.com/spreadsheets/d/1GBhxwcieIM9oCHdbuso8uU1GxN2OKTZSyEfL8VdZpUk/edit#gid=0)
+- [SW문제해결 기본 List1](https://docs.google.com/spreadsheets/d/1GBhxwcieIM9oCHdbuso8uU1GxN2OKTZSyEfL8VdZpUk/edit#gid=0)
+- [프로그래머스 정렬](https://docs.google.com/spreadsheets/d/1GBhxwcieIM9oCHdbuso8uU1GxN2OKTZSyEfL8VdZpUk/edit#gid=91652642)
