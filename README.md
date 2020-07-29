@@ -14,6 +14,7 @@ Flip Coding Master 02
 
     개념정리 자료
 - [SW문제해결 기본 List1](https://github.com/JaeHeee/AIFFEL_CodingMaster/blob/master/%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC/SW%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%20List1.md)
+- [Sort Algorithm](https://github.com/JaeHeee/AIFFEL_CodingMaster/blob/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC/Sort%20Algorithm.md)
 
 <br>
 
