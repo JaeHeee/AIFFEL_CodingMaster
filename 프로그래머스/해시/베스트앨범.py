@@ -13,6 +13,7 @@ def solution(genres, plays):
     genre_rank = [genre for genre, play in sorted(genres_play.items(), key=lambda x :x[1], reverse=True)]
     
     # 고유번호 dictionary로 저장
+    # key = (장르, 고유번호) value = 플레이 수
     id_ = {(g_p[0],i) : g_p[1] for i, g_p in enumerate(zip(genres, plays))}
     
     # 플레이 수를 기준으로 노래들 정렬하여, 장르와 고유번호 list로 저장
