@@ -47,3 +47,6 @@ def solution(answers):
             answer.append(c[0])
 
     return sorted(answer)
+
+
+## max_time = 4.01ms
