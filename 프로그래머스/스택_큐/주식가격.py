@@ -20,5 +20,5 @@ def solution(prices):
                     break
             stack.append(p)
             idx-=1
-            
+
     return answer
