@@ -17,7 +17,7 @@ Flip Coding Master 02
 - [Sort Algorithm](https://github.com/JaeHeee/AIFFEL_CodingMaster/blob/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC/Sort%20Algorithm.md)
 - [Stack & Queue](https://www.notion.so/jaeheee/Stack-Queue-835b7c48dc444fecaba4eb59bbcb9ffa)
 - [Heap](https://www.notion.so/jaeheee/Heap-6c482e5e5bde44a9a2430c06c2821076)
-
+- [DFS & BFS](https://www.notion.so/jaeheee/DFS-BFS-876c422dceb543e2a48c60dac56a02fa)
 <br>
 
 ## Schedule
@@ -28,6 +28,10 @@ Flip Coding Master 02
 |프로그래머스 해시|이상국님|2020.08.10|
 |프로그래머스 스택 큐|손주영님|2020.08.24|
 |프로그래머스 힙|정윤성님|2020.08.31|
+|프로그래머스 완전탐색|장선우님|2020.09.07|
+|프로그래머스 탐욕법|김진영님|2020.09.14|
+|프로그래머스 DFS&BFS|김재희님|2020.09.21|
+
 
 <br>
 
@@ -37,3 +41,6 @@ Flip Coding Master 02
 - [프로그래머스 해시](https://docs.google.com/spreadsheets/d/1FyCCuYR7hV_y8AM-OcD_w-AQpReu78H7OaBeV-xzsXg/edit#gid=0)
 - [프로그래머스 스택 큐](https://docs.google.com/spreadsheets/d/1FyCCuYR7hV_y8AM-OcD_w-AQpReu78H7OaBeV-xzsXg/edit#gid=1885142213)
 - [프로그래머스 힙](https://docs.google.com/spreadsheets/d/1FyCCuYR7hV_y8AM-OcD_w-AQpReu78H7OaBeV-xzsXg/edit#gid=139983257)
+- [프로그래머스 완전탐색](https://docs.google.com/spreadsheets/d/1FyCCuYR7hV_y8AM-OcD_w-AQpReu78H7OaBeV-xzsXg/edit#gid=616262264)
+- [프로그래머스 탐욕법](https://docs.google.com/spreadsheets/d/1FyCCuYR7hV_y8AM-OcD_w-AQpReu78H7OaBeV-xzsXg/edit#gid=1561232100)
+- [프로그래머스 DFS&BFS](https://docs.google.com/spreadsheets/d/1FyCCuYR7hV_y8AM-OcD_w-AQpReu78H7OaBeV-xzsXg/edit#gid=934371091)
