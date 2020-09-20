@@ -16,7 +16,7 @@ def solution(tickets):
 
     while stack:
         top = stack[-1]
-
+        # ticket_dict[top]이 비어있으면 더이상 갈 도시가 없습니다. path에 추가해줍니다.
         if len(ticket_dict[top]) == 0:
             path.append(stack.pop())
         else:
